@@ -12,6 +12,7 @@ header {
   left: 0;
   right: 0;
   border-bottom: 1px solid #e2e2e2;
+  background-color: white;
 }
 
 .header-img {
@@ -75,4 +76,13 @@ header {
 .header-button:hover {
   background: #0e548a;
   transition: background .5s;
+}
+
+section {
+  background-color: #000000;
+  height: 1600px;
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
 }
