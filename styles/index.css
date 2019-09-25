@@ -78,18 +78,65 @@ header {
   transition: background .5s;
 }
 
-section {
-  background-color: #000000;
-  height: 1600px;
+.title-description {
+  width: 85%;
+  margin: 10px auto;
+}
+
+.title {
+  font: Georgia;
+  color: #121212;
+  font-size: 40px;
   width: 600px;
-  display: flex;
-  justify-content: center;
-  margin: 0 auto;
-  font-size: 16pt;
+  margin: 20px auto;
+  margin-top: 70px;
 }
 
 .title-image {
   display: block;
   width: 85%;
   margin: 0 auto;
+}
+
+.title-image-description {
+  display: inline;
+  margin: 10px auto;
+  color: #666666;
+  font-size: 15px;
+}
+
+.title-image-author {
+  color: #888888;
+  display: inline;
+  font-size: 12px;
+  margin: 0;
+}
+
+section {
+  background-color: rgb(137, 137, 148);
+  height: 1600px;
+  width: 600px;
+  /* display: flex;
+  justify-content: center; */
+  margin: 0 auto;
+  font-size: 16pt;
+}
+
+.author {
+  color: #333333;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.author-link:visited {
+  color: #333333;
+}
+
+.date {
+  font-size: 13px;
+  color: #333333;
+}
+
+.social-img {
+  
 }
