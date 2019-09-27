@@ -113,11 +113,8 @@ header {
 }
 
 section {
-  background-color: rgb(137, 137, 148);
-  height: 1600px;
+  background-color: rgb(209, 209, 209);
   width: 600px;
-  /* display: flex;
-  justify-content: center; */
   margin: 0 auto;
   font-size: 16pt;
 }
@@ -141,4 +138,76 @@ section {
   height: 50px;
   float: right;
   margin-top: -60px;
+}
+
+section iframe {
+  width: 100%;
+  height: 370px;
+  margin: 10px 0;
+}
+
+.inflation-img {
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.inflation-div {
+  margin-left: 50%;
+  transform: translateX(-50%);
+  width: 950px;
+}
+
+.inflation-div p {
+  color: #666666;
+  font-size: 14px;
+  margin-top: -25px;
+}
+
+.video-description {
+  color: #666666;
+  font-size: 16px;
+  margin-top:-10px;
+}
+
+.video-author {
+  color: #888888;
+  font-size: 12px;
+  margin-top: -15px;
+}
+
+.super-jumbo-img {
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+.super-jumbo-description {
+  color: #666666;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  width: 800px;
+  font-size: 15px;
+  margin-top: -2px;
+}
+
+.super-jumbo-author {
+  color: #888888;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  width: 800px;
+  font-size: 12px;
+  margin-top: -12px;
+}
+
+.border-div-inflation {
+  border: 1px solid black;
+  width: 60px;
+  position: relative;
+  left: -170px;
+}
+
+.inflation-credits {
+  color: #333333;
+  font-size: 14px;
+  position: relative;
+  left: -170px;
 }
