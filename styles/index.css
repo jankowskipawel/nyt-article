@@ -210,3 +210,8 @@ section iframe {
   position: relative;
   left: -170px;
 }
+
+.paper-info {
+  color: #999999;
+  font-size: 12px;
+}
