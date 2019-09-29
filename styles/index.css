@@ -215,3 +215,19 @@ section iframe {
   color: #999999;
   font-size: 12px;
 }
+
+.show-comments-button {
+  color: #ffffff;
+  background: #6288A5;
+  width: 330px;
+  height: 36px;
+  font-weight: bold;
+  border: 1px rgb(50, 104, 145) solid;
+  border-radius: 3px;
+  transition: background-color 0.6s ease 0s;
+}
+
+.show-comments-button:hover {
+  background: rgb(50, 104, 145);
+  transition: background-color 0.6s ease 0s;
+}
