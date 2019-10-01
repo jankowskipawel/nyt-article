@@ -237,3 +237,24 @@ section iframe {
   position: relative;
   top: -10px;
 }
+
+.more-space-cosmos {
+  height: 300px;
+  width: 700px;
+  float: left;
+  position: relative;
+  left: 25px;
+  border-top: 1px solid black;
+  top: 64px;
+}
+
+.title-cosmos {
+  font-size: 16px;
+  color: #000000;
+  font-weight: bold;
+}
+
+.title-cosmos-p:visited {
+  color: #000000;
+
+}
