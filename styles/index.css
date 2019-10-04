@@ -238,23 +238,45 @@ section iframe {
   top: -10px;
 }
 
-.more-space-cosmos {
+.more-science {
   height: 300px;
-  width: 700px;
-  float: left;
+  width: 85%;
   position: relative;
-  left: 25px;
   border-top: 1px solid black;
   top: 64px;
+  text-align: center;
 }
 
-.title-images {
-  font-size: 16px;
-  color: #000000;
-  font-weight: bold;
+.more-science p {
+  position: relative;
+  font-size: 18px;
+  color: #333333;
+  margin-top: 50px;
 }
 
-.title-images-p:visited {
-  color: #000000;
+.more-science-image-container {
+  display: flex;
+  width: 95%;
+  justify-content:space-between;
+}
 
+.i1-container img, .i2-container img, .i3-container img{
+  width: 100%;
+  margin: 0 5px;
+}
+
+.i1-container, .i2-container, .i3-container{
+  width: 30%;
+  margin: 0 5px;
+}
+
+.i2-container {
+  border-left: 1px solid rgb(220, 220, 220);
+  border-right: 1px solid rgb(220, 220, 220);
+  /* padding: 0 15px; */
+}
+
+
+.middle-img {
+  padding: 0 10px;
 }
