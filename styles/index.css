@@ -256,27 +256,18 @@ section iframe {
 
 .more-science-image-container {
   display: flex;
-  width: 95%;
-  justify-content:space-between;
+  justify-content:space-around;
 }
 
 .i1-container img, .i2-container img, .i3-container img{
   width: 100%;
-  margin: 0 5px;
 }
 
 .i1-container, .i2-container, .i3-container{
-  width: 30%;
-  margin: 0 5px;
+  width: 32%;
 }
 
-.i2-container {
-  border-left: 1px solid rgb(220, 220, 220);
-  border-right: 1px solid rgb(220, 220, 220);
-  /* padding: 0 15px; */
-}
-
-
-.middle-img {
-  padding: 0 10px;
+.border-div-2, .border-div-1 {
+  width: 1px;
+  background-color: rgb(220, 220, 220);
 }
