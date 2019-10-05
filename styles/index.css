@@ -247,7 +247,7 @@ section iframe {
   text-align: center;
 }
 
-.more-science p {
+.more-section-title {
   position: relative;
   font-size: 18px;
   color: #333333;
@@ -270,4 +270,11 @@ section iframe {
 .border-div-2, .border-div-1 {
   width: 1px;
   background-color: rgb(220, 220, 220);
+}
+
+.more-img-author {
+  float: right;
+  color: #999999;
+  font-size: 9.6px;
+  margin-top: 0;
 }
