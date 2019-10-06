@@ -252,6 +252,7 @@ section iframe {
   font-size: 18px;
   color: #333333;
   margin-top: 50px;
+  font-weight: bold;
 }
 
 .more-science-image-container {
@@ -277,4 +278,25 @@ section iframe {
   color: #999999;
   font-size: 9.6px;
   margin-top: 0;
+}
+
+.more-title {
+  font-size: 24px;
+  color: #000000;
+  text-align: left;
+  padding: 0 10px;
+}
+
+.more-title-text {
+  text-align: left;
+  color: #555555;
+  font-size: 16px;
+  padding: 0 10px;
+}
+
+.more-title-date-author {
+  text-align: left;
+  font-size: 14px;
+  color: #555555;
+  padding: 0 10px;
 }
