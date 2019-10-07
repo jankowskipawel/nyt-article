@@ -258,6 +258,8 @@ section iframe {
 .more-science-image-container {
   display: flex;
   justify-content:space-around;
+  border-bottom: 1px #e2e2e2 solid ;
+  padding-bottom: 20px;
 }
 
 .i1-container img, .i2-container img, .i3-container img{
