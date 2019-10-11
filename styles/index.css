@@ -336,3 +336,8 @@ section iframe {
 .log-in-link:visited {
   color: #333333;
 }
+
+.footer {
+  position: fixed;
+  bottom: 1px;
+}
