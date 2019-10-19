@@ -100,17 +100,21 @@ header {
 }
 
 .title-image-description {
-  display: inline;
-  margin: 10px auto;
+  /* display: inline; */
+  margin: 10px 0;
   color: #666666;
   font-size: 15px;
+  position: relative;
+  left: 105px;
+  width: 87%;
 }
 
 .title-image-author {
   color: #888888;
-  display: inline;
   font-size: 12px;
   margin: 0;
+  position: relative;
+  left: 105px;
 }
 
 section {
