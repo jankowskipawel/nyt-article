@@ -1,6 +1,6 @@
 body {
   font-family: georgia,'times new roman',times,serif;
-  height: 10700px;
+  height: 10750px;
   transition: none !important;
 }
 
@@ -421,7 +421,7 @@ footer {
 
 .contact-us {
   position: relative;
-  top: 640px;
+  top: 680px;
   font-size: 11px;
   color: #999999;
   width: 70%;
