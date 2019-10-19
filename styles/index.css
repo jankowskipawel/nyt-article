@@ -391,7 +391,7 @@ footer {
 
 .footer-div-2, .footer-div-3, .footer-div-4, .footer-div-5, .footer-div-6{
   position: relative;
-  width: 180px;
+  width: 15%;
   display: inline;
   float: left;
 }
